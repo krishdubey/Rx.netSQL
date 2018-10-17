@@ -1,0 +1,7 @@
+G:\c#.netPrograms\SqlProgram\SqlProgram\obj\Debug\SqlProgram.csprojAssemblyReference.cache
+G:\c#.netPrograms\SqlProgram\SqlProgram\obj\Debug\SqlProgram.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\SqlProgram\SqlProgram\bin\Debug\SqlProgram.exe.config
+G:\c#.netPrograms\SqlProgram\SqlProgram\bin\Debug\SqlProgram.exe
+G:\c#.netPrograms\SqlProgram\SqlProgram\bin\Debug\SqlProgram.pdb
+G:\c#.netPrograms\SqlProgram\SqlProgram\obj\Debug\SqlProgram.exe
+G:\c#.netPrograms\SqlProgram\SqlProgram\obj\Debug\SqlProgram.pdb
